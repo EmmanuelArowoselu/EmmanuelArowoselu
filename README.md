@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Designer, Developer, Artist)`**
 
-I'm a polymath developer who is passionate about bringing creative and technically challenging website ideas to life. My projects include website animation, 3D modeling with blender, and full-stack development. 
+I'm a polymath developer who is passionate about bringing creative and technically challenging website ideas to life. My projects include website animation, 3D modeling, and full-stack development. 
 
 ---
 
@@ -12,7 +12,7 @@ I'm a polymath developer who is passionate about bringing creative and technical
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'/>
-<img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg'/>
+<img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg'/>
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'/>
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'/>
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'/>
