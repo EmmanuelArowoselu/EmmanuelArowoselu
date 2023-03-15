@@ -18,6 +18,7 @@ I'm a polymath developer who is passionate about bringing creative and technical
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'/>
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg'/>
 <img align='left' width='30px' style='padding-right:30px;' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'/>
+<br/>
 
 ##
 I'm always interested in new projects, so feel free to [contact me](https://emmanuel-3d.netlify.app/#contact).
