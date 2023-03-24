@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Designer, Developer, Artist)`**
 
-I'm a polymath developer who is passionate about bringing creative and technically challenging website ideas to life. My projects include website design and animation, 3D modeling, and full-stack development. 
+I'm a polymath developer who is passionate about bringing creative and technically challenging website ideas to life. My expertise include website design and animation, 3D modeling, and full-stack development. 
 
 ---
 
