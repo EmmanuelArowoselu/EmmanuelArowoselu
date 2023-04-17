@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Designer, Developer, Artist)`**
 
-I'm a developer who is passionate about bringing creative and technically challenging website ideas to life. My expertise include website design, full stack development and 3D modeling.  
+I'm a developer who is passionate about bringing creative and technically challenging website ideas to life. My expertise include website design, full stack development and generative art.  
 
 ---
 
